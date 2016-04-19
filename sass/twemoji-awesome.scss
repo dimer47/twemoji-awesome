@@ -1,3 +1,4 @@
+$ver: 2;
 .twa {
   display: inline-block;
   height: 1em;
@@ -859,6 +860,6 @@ $emoji-map: (
 
 @each $code, $name in $emoji-map {
   .twa-#{$name} {
-    background-image: url("https://twemoji.maxcdn.com/2/svg/#{$code}.svg");
+    background-image: url("https://twemoji.maxcdn.com/#{$ver}/svg/#{$code}.svg");
   }
 }

@@ -1,0 +1,36 @@
+{
+  "name": "twemoji-awesome",
+  "version": "2.0.0",
+  "description": "Like Font Awesome, but for Twitter Emoji. Works with Emoji Cheat Sheet.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abr4xas/twemoji-awesome.git"
+  },
+  "keywords": [
+    "emoji",
+    "twitter",
+    "font",
+    "awesome"
+  ],
+  "author": "Elle Kasai <elle.kasai@gmail.com>",
+  "contributors": [
+    {
+      "name": "Angel Cruz",
+      "email": "me@abr4xas.org"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abr4xas/twemoji-awesome/issues"
+  },
+  "homepage": "https://github.com/abr4xas/twemoji-awesome#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-header": "^1.7.1",
+    "gulp-sass": "^2.2.0"
+  }
+}
