@@ -2,7 +2,7 @@
 
 Like [Font Awesome](http://fontawesome.io), but for [Twitter Emoji](http://twitter.github.io/twemoji/).
 
-## [View Demo and Documentation &rarr;](http://ellekasai.github.io/twemoji-awesome)
+## [View Demo and Documentation &rarr;](http://abr4xas.github.io/twemoji-awesome)
 
 ## Author & License
 
