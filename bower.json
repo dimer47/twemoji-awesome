@@ -13,7 +13,7 @@
         "awesome"
     ],
     "homepage": "https://github.com/abr4xas/twemoji-awesome",
-    "private": true,
+    "private": false,
     "ignore": [
         "**/.*",
         "node_modules",
