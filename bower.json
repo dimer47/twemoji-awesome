@@ -19,6 +19,12 @@
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tests",
+    "css",
+    "js",
+    "demo.html",
+    "index.html",
+    "Gulpfile.js",
+    "package.json"
   ]
 }
