@@ -8,21 +8,29 @@ Like [Font Awesome](http://fontawesome.io), but for [Twitter Emoji](http://twitt
 
 ## How install
 
-### `bower`
+### bower
 
-`bower install twemoji-awesome`
-
-Then add a `<link>` to your `index.html`:
-
-`<link rel="stylesheet" href="/bower_components/twemoji-awesome/twemoji-awesome.min.css">`
-
-### `npm`
-
-`npm install twemoji-awesome`
+```bash
+$ bower install twemoji-awesome
+```
 
 Then add a `<link>` to your `index.html`:
 
-`<link rel="stylesheet" href="/node_modules/twemoji-awesome/twemoji-awesome.min.css">`
+```html
+<link rel="stylesheet" href="/node_modules/twemoji-awesome/twemoji-awesome.min.css">
+```
+
+### npm
+
+```bash
+$ npm install twemoji-awesome
+```
+
+Then add a `<link>` to your `index.html`:
+
+```html
+<link rel="stylesheet" href="/node_modules/twemoji-awesome/twemoji-awesome.min.css">
+```
 
 ## [View Demo and Documentation &rarr;](http://abr4xas.github.io/twemoji-awesome)
 
