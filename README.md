@@ -2,16 +2,16 @@
     <img alt="Twemoji Awesome" src="http://i.imgur.com/56VHnM6.png" width="auto">
 </p>
 <p align="center">
-    <a href="https://www.npmjs.com/package/twemoji-awesome">
+    <a href="https://www.npmjs.com/package/twemoji-awesome" title="NPM status">
         <img src="https://img.shields.io/npm/v/twemoji-awesome.svg?style=flat-square" alt="Twemoji Awesome">
     </a>
-    <a href="https://www.npmjs.com/package/twemoji-awesome">
+    <a href="https://www.npmjs.com/package/twemoji-awesome" title="Downloads status">
         <img alt="descargas" src="https://img.shields.io/npm/dt/twemoji-awesome.svg?style=flat-square">
     </a>
     <a href="https://david-dm.org/abr4xas/twemoji-awesome" title="Dependency status">
         <img src="https://david-dm.org/abr4xas/twemoji-awesome.svg?style=flat-square"/>
     </a>
-    <a href="https://www.npmjs.com/package/twemoji-awesome">
+    <a href="https://www.npmjs.com/package/twemoji-awesome" title="Licence">
         <img alt="licencia" src="https://img.shields.io/npm/l/twemoji-awesome.svg?style=flat-square">
     </a>
 </p>
