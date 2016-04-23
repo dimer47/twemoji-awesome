@@ -1,4 +1,6 @@
-[Imgur](http://i.imgur.com/56VHnM6.png)
+<p align="center">
+    <img alt="Twemoji Awesome" src="http://i.imgur.com/56VHnM6.png" width="auto">
+</p>
 
 ## Twemoji Awesome
 
