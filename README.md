@@ -1,10 +1,8 @@
-![Emoji](img/mlnek56zokc8pw_small.png)
+[Imgur](http://i.imgur.com/56VHnM6.png)
 
-## :tada: Twemoji Awesome :beer:
+## Twemoji Awesome
 
 Like [Font Awesome](http://fontawesome.io), but for [Twitter Emoji](http://twitter.github.io/twemoji/).
-
-
 
 ## How install
 

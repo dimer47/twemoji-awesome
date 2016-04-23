@@ -1,6 +1,6 @@
 {
   "name": "twemoji-awesome",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Like Font Awesome, but for Twitter Emoji",
   "main": "index.html",
   "scripts": {
