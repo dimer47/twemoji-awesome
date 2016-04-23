@@ -1,7 +1,20 @@
 <p align="center">
     <img alt="Twemoji Awesome" src="http://i.imgur.com/56VHnM6.png" width="auto">
 </p>
-
+<p align="center">
+    <a href="https://www.npmjs.com/package/twemoji-awesome">
+        <img src="https://img.shields.io/npm/v/twemoji-awesome.svg?style=flat-square" alt="npm version">
+    </a>
+    <a href="https://www.npmjs.com/package/twemoji-awesome">
+        <img alt="descargas" src="https://img.shields.io/npm/dt/twemoji-awesome.svg?style=flat-square">
+    </a>
+    <a href="https://badge.fury.io/js/twemoji-awesome">
+        <img alt="dependencias" src="https://david-dm.org/abr4xas/twemoji-awesome?style=flat-square">
+    </a>
+    <a href="https://www.npmjs.com/package/twemoji-awesome">
+        <img alt="licencia" src="https://img.shields.io/npm/l/twemoji-awesome.svg?style=flat-square">
+    </a>
+</p>
 ## Twemoji Awesome
 
 Like [Font Awesome](http://fontawesome.io), but for [Twitter Emoji](http://twitter.github.io/twemoji/).
