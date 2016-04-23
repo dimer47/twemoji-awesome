@@ -3,13 +3,13 @@
 </p>
 <p align="center">
     <a href="https://www.npmjs.com/package/twemoji-awesome">
-        <img src="https://img.shields.io/npm/v/twemoji-awesome.svg?style=flat-square" alt="npm version">
+        <img src="https://img.shields.io/npm/v/twemoji-awesome.svg?style=flat-square" alt="Twemoji Awesome">
     </a>
     <a href="https://www.npmjs.com/package/twemoji-awesome">
         <img alt="descargas" src="https://img.shields.io/npm/dt/twemoji-awesome.svg?style=flat-square">
     </a>
-    <a href="https://badge.fury.io/js/twemoji-awesome">
-        <img alt="dependencias" src="https://david-dm.org/abr4xas/twemoji-awesome?style=flat-square">
+    <a href="https://david-dm.org/abr4xas/twemoji-awesome" title="Dependency status">
+        <img src="https://david-dm.org/abr4xas/twemoji-awesome.svg?style=flat-square"/>
     </a>
     <a href="https://www.npmjs.com/package/twemoji-awesome">
         <img alt="licencia" src="https://img.shields.io/npm/l/twemoji-awesome.svg?style=flat-square">
