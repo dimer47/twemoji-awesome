@@ -1,40 +1,38 @@
 {
-  "name": "twemoji-awesome",
-  "version": "1.0.3",
-  "description": "Like Font Awesome, but for Twitter Emoji",
-  "main": "index.html",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/abr4xas/twemoji-awesome.git"
-  },
-  "keywords": [
-    "emoji",
-    "twitter",
-    "font",
-    "awesome"
-  ],
-  "author": "Angel Cruz <me@abr4xas.org>",
-  "contributors": [
-    {
-      "name": "Elle Kasai",
-      "email": "elle.kasai@gmail.com"
+    "name": "twemoji-awesome",
+    "version": "1.0.4",
+    "description": "Like Font Awesome, but for Twitter Emoji",
+    "main": "index.html",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/abr4xas/twemoji-awesome.git"
+    },
+    "keywords": [
+        "emoji",
+        "twitter",
+        "font",
+        "awesome"
+    ],
+    "author": "Angel Cruz <me@abr4xas.org>",
+    "contributors": [{
+        "name": "Elle Kasai",
+        "email": "elle.kasai@gmail.com"
+    }],
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/abr4xas/twemoji-awesome/issues"
+    },
+    "homepage": "https://github.com/abr4xas/twemoji-awesome#readme",
+    "devDependencies": {
+        "gulp": "^3.9.1",
+        "gulp-clean-css": "^2.0.6",
+        "gulp-concat": "^2.6.0",
+        "gulp-header": "^1.7.1",
+        "gulp-rename": "^1.2.2",
+        "gulp-sass": "^2.2.0",
+        "gulp-size": "^2.1.0"
     }
-  ],
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/abr4xas/twemoji-awesome/issues"
-  },
-  "homepage": "https://github.com/abr4xas/twemoji-awesome#readme",
-  "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-clean-css": "^2.0.6",
-    "gulp-concat": "^2.6.0",
-    "gulp-header": "^1.7.1",
-    "gulp-rename": "^1.2.2",
-    "gulp-sass": "^2.2.0",
-    "gulp-size": "^2.1.0"
-  }
 }
