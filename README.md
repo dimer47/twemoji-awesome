@@ -57,7 +57,7 @@ Elle Kasai
 - [Twitter](http://twitter.com/ellekasai)
 
 
-v2.0.0 by:
+v1.0.X by:
 
 Angel Cruz
 
