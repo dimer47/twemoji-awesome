@@ -1,6 +1,6 @@
 {
     "name": "twemoji-awesome",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "Like Font Awesome, but for Twitter Emoji",
     "main": "index.html",
     "scripts": {
@@ -17,22 +17,25 @@
         "awesome"
     ],
     "author": "Angel Cruz <me@abr4xas.org>",
-    "contributors": [{
-        "name": "Elle Kasai",
-        "email": "elle.kasai@gmail.com"
-    }],
+    "contributors": [
+        {
+            "name": "Elle Kasai",
+            "email": "elle.kasai@gmail.com"
+        }
+    ],
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/abr4xas/twemoji-awesome/issues"
     },
     "homepage": "https://github.com/abr4xas/twemoji-awesome#readme",
     "devDependencies": {
+        "del": "^2.2.2",
         "gulp": "^3.9.1",
-        "gulp-clean-css": "^2.0.6",
+        "gulp-clean-css": "^2.0.13",
         "gulp-concat": "^2.6.0",
-        "gulp-header": "^1.7.1",
+        "gulp-header": "^1.8.8",
         "gulp-rename": "^1.2.2",
-        "gulp-sass": "^2.2.0",
+        "gulp-sass": "^2.3.2",
         "gulp-size": "^2.1.0"
     }
 }
